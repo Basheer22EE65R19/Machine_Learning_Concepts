@@ -4,12 +4,12 @@ In this repository, I have uploaded some cheat sheets regarding machine learning
 
 Reference Books:
 - **Probability**
-  - Book: *Probability for Data Science*
-  - Author: John Doe
+  - Book: *Introduction to Probability for Data Science*
+  - Author: Stanley H. Chan
 
 - **Linear Algebra**
   - Book: *Introduction to Linear Algebra*
-  - Author: Jane Smith
+  - Author: Gilbert Strang
 
 - **Pattern Recognition**
   - Book: *Pattern Recognition and Machine Learning*
@@ -20,5 +20,5 @@ Reference Books:
   - Author: Rafael C. Gonzalez, Richard E. Woods
 
 - **Statistical Signal Processing**
-  - Book: *Statistical Signal Processing: Detection, Estimation, and Time Series Analysis*
-  - Author: Louis Scharf
+  - Book: *Statistical Digital Signal Processing and Modeling*
+  - Author: Monson H.Hayes

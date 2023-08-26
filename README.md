@@ -3,16 +3,22 @@
 In this repository, I have uploaded some cheat sheets regarding machine learning concepts.
 
 Reference Books:
-- [Probability]([https://example.com/probability_book](https://probability4datascience.com/))
-- [Linear Algebra](https://example.com/linear_algebra_book)
-- [Pattern Recognition](https://example.com/pattern_recognition_book)
-- [Digital Image Processing](https://example.com/digital_image_processing_book)
-- [Statistical Signal Processing](https://example.com/statistical_signal_processing_book)
+- **Probability**
+  - Book: *Probability for Data Science*
+  - Author: John Doe
 
-<!-- Line break using two spaces -->
-Line break here  
-Next line of text.
+- **Linear Algebra**
+  - Book: *Introduction to Linear Algebra*
+  - Author: Jane Smith
 
-<!-- Line break using HTML <br> tag -->
-Line break here <br>
-Next line of text.
+- **Pattern Recognition**
+  - Book: *Pattern Recognition and Machine Learning*
+  - Author: Christopher M. Bishop
+
+- **Digital Image Processing**
+  - Book: *Digital Image Processing*
+  - Author: Rafael C. Gonzalez, Richard E. Woods
+
+- **Statistical Signal Processing**
+  - Book: *Statistical Signal Processing: Detection, Estimation, and Time Series Analysis*
+  - Author: Louis Scharf

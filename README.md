@@ -3,7 +3,7 @@
 In this repository, I have uploaded some cheat sheets regarding machine learning concepts.
 
 Reference Books:
-- [Probability](https://example.com/probability_book)
+- [Probability]([https://example.com/probability_book](https://probability4datascience.com/))
 - [Linear Algebra](https://example.com/linear_algebra_book)
 - [Pattern Recognition](https://example.com/pattern_recognition_book)
 - [Digital Image Processing](https://example.com/digital_image_processing_book)
